@@ -1,0 +1,1 @@
+# codzienne_informacje_git
